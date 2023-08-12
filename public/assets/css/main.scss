@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+$blue:#069;
+
+::-webkit-scrollbar{
+    width: 4px;
+    background: $color;
+}
